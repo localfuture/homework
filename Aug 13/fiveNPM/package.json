@@ -1,0 +1,18 @@
+{
+  "name": "fivenpm",
+  "version": "1.0.0",
+  "description": "a nodejs using 5 npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anand Alex",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "game_of_thrones-names": "^2.0.7",
+    "ora": "^3.4.0",
+    "terminal-banner": "^1.1.0",
+    "time-stamp": "^2.2.0"
+  }
+}
