@@ -1,0 +1,11 @@
+{
+  "name": "builtinmodule",
+  "version": "1.0.0",
+  "description": "using builtin modules",
+  "main": "assert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anand alex",
+  "license": "ISC"
+}
